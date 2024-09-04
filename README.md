@@ -1,3 +1,3 @@
 # Single-PageCV
- 
-https://roadmap.sh/projects/single-page-cv
+
+https://github.com/Cantx08/Single-PageCV.git
